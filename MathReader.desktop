@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=MathReader
+Comment=Mathematica Notebook Reader
+Comment[pl]=Przeglądarka plików z programu Mathematica
+Exec=MathReader
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Categories=Science;Math;X-Numeric;
+# vi: encoding=utf-8
