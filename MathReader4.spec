@@ -3,7 +3,7 @@ Summary:	Mathematica Notebook Reader
 Summary(pl):	Przegl±darka plików z programu Mathematica
 Name:		MathReader4
 Version:	4.2.1
-Release:	1.1
+Release:	1
 License:	almost free, distributable
 # from http://www.wolfram.com/products/mathreader/download.cgi
 Source0:	%{realname}-%{version}-Linux-PPC.tar.gz
