@@ -6,5 +6,5 @@ Exec=MathReader
 Terminal=false
 Type=Application
 Encoding=UTF-8
-Categories=Science;Math;X-Numeric;
+Categories=Education;Science;Math;
 # vi: encoding=utf-8
