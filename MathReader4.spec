@@ -1,6 +1,6 @@
 %define		realname	MathReader
 Summary:	Mathematica Notebook Reader
-Summary(pl.UTF-8):   Przeglądarka plików z programu Mathematica
+Summary(pl.UTF-8):	Przeglądarka plików z programu Mathematica
 Name:		MathReader4
 Version:	4.2.1
 Release:	1
